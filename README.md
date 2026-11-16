@@ -101,3 +101,7 @@ src/
   viz/                  figure regeneration and fact-check corrections
 docs/screenshots/       images used in this README
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). The official practice questions and answers in `src/form/`, `src/btt/bank.json` and `src/ftt/bank.json` belong to the Singapore Police Force (Traffic Police). They're included so the app works offline, and the MIT License doesn't cover them.
